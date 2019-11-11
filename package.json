@@ -1,7 +1,7 @@
 {
-  "name": "garderobe",
+  "name": "github.com/jacobseibaek/garderobe",
   "version": "0.0.0",
-  "description": "No description",
+  "description": "Jacobseibaek/Garderobe @ Nov 11, 2019",
   "author": null,
   "private": true,
   "main": "node_modules/expo/AppEntry.js",
@@ -19,6 +19,9 @@
     "prop-types": "15.7.2",
     "react-dom": "16.8.3",
     "react-native-web": "0.11.7",
-    "react-native-paper": "2.16.0"
+    "react-navigation": "4.0.10",
+    "react-native-paper": "2.16.0",
+    "react-navigation-tabs": "2.5.5",
+    "react-navigation-stack": "1.9.3"
   }
 }
